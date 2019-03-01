@@ -5,6 +5,7 @@
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
+* [Ontology Languages](#ontology-languages)
 * [Vocabularies](#vocabularies)
 * [Ontologies](#ontologies)
   * [Upper-level](#upper-level-ontologies)
@@ -33,6 +34,12 @@ Archived or inactive:
 See also:
 
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
+
+## Ontology Languages
+
+See also:
+
+* [Ontology language](https://en.wikipedia.org/wiki/Ontology_language) in Wikipedia
 
 ## Vocabularies
 
