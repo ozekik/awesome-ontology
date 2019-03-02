@@ -11,6 +11,7 @@
   * [Upper-level](#upper-level-ontologies)
   * [Large](#large-ontologies)
   * [Domain](#domain-ontologies)
+* [Logics](#logics)
 * [Reasoners](#reasoners)
 * [Related](#related)
 
@@ -90,6 +91,19 @@ Archived or inactive:
 ### See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
+
+## Logics
+
+* [Description Logics (DLs)](https://en.wikipedia.org/wiki/Description_logic) -
+* [F-Logic](https://en.wikipedia.org/wiki/F-logic) families -
+
+Related:
+
+* [Common Logic (CL)](https://en.wikipedia.org/wiki/Common_Logic) - Syntax and semantics are given in the ISO standard without proof theory.
+
+See also:
+
+* [Description Logic Complexity Navigator](http://www.cs.man.ac.uk/~ezolin/dl/) by Evgeny Zolin
 
 ## Reasoners
 
