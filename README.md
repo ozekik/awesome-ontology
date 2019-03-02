@@ -11,6 +11,7 @@
   * [Upper-level](#upper-level-ontologies)
   * [Large](#large-ontologies)
   * [Domain](#domain-ontologies)
+* [Reasoners](#reasoners)
 * [Related](#related)
 
 ## Ontology Editors
@@ -89,6 +90,24 @@ Archived or inactive:
 ### See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
+
+## Reasoners
+
+A reasoner is a program which infers new facts and detects inconsistencies in ontology and knowledge base based on the logic associated.
+
+* [CEL](https://julianmendez.github.io/cel/) - A lightweight Description Logic (EL+) reasoner for large-scale biomedical ontologies. (Common Lisp+Java)
+* [ELK](https://github.com/liveontologies/elk-reasoner) - An ontology reasoner that aims to support the OWL 2 EL profile. (Java)
+* [EYE](https://github.com/josd/eye) - A reasoning engine which performs semibackward chaining and supports Euler paths. (Prolog)
+* [FaCT++](http://owl.man.ac.uk/factplusplus/) - The new generation of the well-known [FaCT](http://www.cs.man.ac.uk/~horrocks/FaCT) OWL-DL reasoner which uses optimised tableaux algorithms. (C++)
+* [Flora-2 (Ergo Lite)](http://flora.sourceforge.net/) - A F-logic based reasoning system. (Prolog)
+* [jcel](https://github.com/julianmendez/jcel) - A reasoner for the description logic EL+. (Java)
+* [Racer](https://www.ifis.uni-luebeck.de/~moeller/racer/) - A knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D). (Common Lisp+Java)
+
+Archived or inactive:
+
+* [cwm](https://www.w3.org/2000/10/swap/doc/cwm.html) (last updated 2005) - A forward chaining RDF reasoner. (Python)
+* [HermiT](http://www.hermit-reasoner.com/) (last updated ~2013) - The first publicly-available OWL reasoner based on a novel “hypertableau” calculus which provides much more efficient reasoning than any previously-known algorithm. (Java)
+* [Pellet 2](https://github.com/stardog-union/pellet) (last updated ~2015) - An open source OWL DL reasoner for Java. Pellet 3 (proprietary) is embedded in the [Stardog](https://www.stardog.com/) platform. (Java)
 
 ## Related
 
