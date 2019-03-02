@@ -110,7 +110,12 @@ Archived or inactive:
 
 * [cwm](https://www.w3.org/2000/10/swap/doc/cwm.html) (last updated 2005) - A forward chaining RDF reasoner. (Python)
 * [HermiT](http://www.hermit-reasoner.com/) (last updated ~2013) - The first publicly-available OWL reasoner based on a novel “hypertableau” calculus which provides much more efficient reasoning than any previously-known algorithm. (Java)
+* [KAON2](http://kaon2.semanticweb.org/) reasoner (last updated 2008) - A DL reasoner for the SHIQ(D) subset of OWL-DL, based on novel algorithms which reduce a SHIQ(D) knowledge base to a disjunctive datalog program. (proprietary, Java)
 * [Pellet 2](https://github.com/stardog-union/pellet) (last updated ~2015) - An open source OWL DL reasoner for Java. Pellet 3 (proprietary) is embedded in the [Stardog](https://www.stardog.com/) platform. (Java)
+
+See also:
+
+* [How does a reasoner work?](http://ontogenesis.knowledgeblog.org/1486) - An introductory article by Uli Sattler, Robert Stevens, and Phillip Lord
 
 ## Related
 
