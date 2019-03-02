@@ -53,6 +53,10 @@ See also:
 
 ## Ontologies
 
+See also:
+
+* [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
+
 ### Upper-level Ontologies
 
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
@@ -87,10 +91,6 @@ Archived or inactive:
 #### People
 
 * [Friend Of A Friend (FOAF)](http://www.foaf-project.org/) - A computer language defining a dictionary of people-related terms that can be used in structured data.
-
-### See also:
-
-* [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
 
 ## Logics
 
