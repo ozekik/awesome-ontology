@@ -140,11 +140,7 @@ Archived or inactive:
 > A logic is a language with a proof theory (e.g., axioms and inference rules).
 
 * [Description Logics (DLs)](https://en.wikipedia.org/wiki/Description_logic) -
-* [F-Logic](https://en.wikipedia.org/wiki/F-logic) families -
-
-Related:
-
-* [Common Logic (CL)](https://en.wikipedia.org/wiki/Common_Logic) - Syntax and semantics are given in the ISO standard without proof theory.
+* [F-Logic](https://en.wikipedia.org/wiki/F-logic) family -
 
 See also:
 
