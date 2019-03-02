@@ -67,6 +67,8 @@ See also:
 
 ## Vocabularies
 
+A vocabulary is a set of terms for a language.
+
 * [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/) - A vocabulary of fifteen properties for use in resource description.
 * [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
 * [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
