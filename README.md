@@ -95,5 +95,6 @@ Archived or inactive:
 * [Awesome-Knowledge-Bases](https://github.com/buaaliuming/Awesome-Knowledge-Bases) - Available knowledge bases, Ontology, Knowledge Graph or taxonomy.
 * [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) - 
 List of projects related to Ontology engineering and Semantic Web technologies that make a geek smile for they exist.
+* [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+* [jbenner-radham/awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 * [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business) - A curated list of awesome resources that feature usages of Semantic Web technologies in business cases (applications).
-* [awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
