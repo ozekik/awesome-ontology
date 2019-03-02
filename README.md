@@ -70,6 +70,7 @@ See also:
 * [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
 * [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
 * [Open Graph protocol](http://ogp.me/) - 
+* [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
 * [Schema.org Schemas](https://schema.org/docs/full.html) - 
 
 ## Ontologies
