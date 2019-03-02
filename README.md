@@ -137,6 +137,8 @@ Archived or inactive:
 
 ## Logics
 
+> A logic is a language with a proof theory (e.g., axioms and inference rules).
+
 * [Description Logics (DLs)](https://en.wikipedia.org/wiki/Description_logic) -
 * [F-Logic](https://en.wikipedia.org/wiki/F-logic) families -
 
