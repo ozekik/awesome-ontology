@@ -47,6 +47,7 @@ See also:
 * KL-ONE -
 * Knowledge Interchange Format (KIF) -
 * [Loom](https://www.isi.edu/isd/LOOM/) -
+* [OBO Format (OBOF)](http://purl.obolibrary.org/obo/oboformat/spec.html) - A language used in the OBO Foundry with a concrete syntax and semantics which maps the language to OWL2-DL.
 * [OWL 2 Web Ontology Language](https://www.w3.org/TR/owl2-overview/) - A language with [an abstract syntax](https://www.w3.org/TR/owl2-syntax/) and [semantics](https://www.w3.org/TR/owl2-direct-semantics/). It has a few defined (reserved) vocabulary terms (see [2.4, Table 3](https://www.w3.org/TR/owl2-syntax/) and [2.2](https://www.w3.org/TR/owl2-direct-semantics/)). The language is compatible with RDF by [the mapping between the OWL 2 language and the RDF language](https://www.w3.org/TR/owl2-mapping-to-rdf/). It can be extended with Description Logics (see [Logics](#logics)).
   * Manchester Syntax
   * OWL/XML
