@@ -93,7 +93,7 @@ Archived or inactive:
 
 ## Reasoners
 
-A reasoner is a program which infers new facts and detects inconsistencies in ontology and knowledge base based on the logic associated.
+A reasoner is a program which infers explanatory or new facts and detects inconsistencies in ontology and knowledge base based on the logic associated.
 
 * [CEL](https://julianmendez.github.io/cel/) - A lightweight Description Logic (EL+) reasoner for large-scale biomedical ontologies. (Common Lisp+Java)
 * [ELK](https://github.com/liveontologies/elk-reasoner) - An ontology reasoner that aims to support the OWL 2 EL profile. (Java)
