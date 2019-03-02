@@ -75,6 +75,7 @@ See also:
 * [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
 * [Open Graph protocol](http://ogp.me/) - 
 * [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
+* [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
 * [Schema.org Schemas](https://schema.org/docs/full.html) - 
 
 ## Ontologies
@@ -82,6 +83,7 @@ See also:
 See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
+* [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding
 
 ### Upper-level Ontologies
 
@@ -112,6 +114,11 @@ Archived or inactive:
 #### Commerce
 
 * [GoodRelations](http://www.heppnetz.de/projects/goodrelations/) - The Web vocabulary for e-commerce.
+* [Product Types Ontology](http://www.productontology.org/) - High-precision identifiers for product types based on Wikipedia.
+
+#### Community
+
+* [SIOC (Semantically Interlinked Online Communities)](http://sioc-project.org/) - An ontology of terms that can be used to describe online communities on the Web of Data.
 
 #### Culture
 
