@@ -111,6 +111,10 @@ Archived or inactive:
 * [Wine Ontology](https://www.w3.org/TR/owl-guide/wine.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
 * [Food Ontology](https://www.w3.org/TR/2004/REC-owl-guide-20040210/food.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
 
+#### Geography
+
+* [Geographical Entity Ontology](http://www.obofoundry.org/ontology/geo.html) - An ontology of geographical entities implemented in OWL 2 and based on Basic Formal Ontology (BFO).
+
 #### People
 
 * [Friend Of A Friend (FOAF)](http://www.foaf-project.org/) - A computer language defining a dictionary of people-related terms that can be used in structured data.
