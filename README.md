@@ -109,6 +109,14 @@ Archived or inactive:
 
 * [Gene Ontology (GO)](http://geneontology.org/) -  The world’s largest source of information on the functions of genes.
 
+#### Commerce
+
+* [GoodRelations](http://www.heppnetz.de/projects/goodrelations/) - The Web vocabulary for e-commerce.
+
+#### Culture
+
+* [CIDOC CRM (Conceptual Reference Model)](http://www.cidoc-crm.org/) - An ontology for cultural heritage information, which describes the explicit and implicit concepts and relations relevant to the documentation of cultural heritage.
+
 #### Food and Drink
 
 * [Wine Ontology](https://www.w3.org/TR/owl-guide/wine.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
@@ -117,6 +125,10 @@ Archived or inactive:
 #### Geography
 
 * [Geographical Entity Ontology](http://www.obofoundry.org/ontology/geo.html) - An ontology of geographical entities implemented in OWL 2 and based on Basic Formal Ontology (BFO).
+
+#### News
+
+* [rNews](http://dev.iptc.org/rNews) - An approved standard for using semantic markup to annotate news-specific metadata in HTML documents.
 
 #### People
 
