@@ -5,7 +5,7 @@
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
-* [Ontology Languages](#ontology-languages)
+* [Languages](#languages)
 * [Vocabularies](#vocabularies)
 * [Ontologies](#ontologies)
   * [Upper-level](#upper-level-ontologies)
@@ -37,10 +37,31 @@ See also:
 
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
 
-## Ontology Languages
+## Languages
+
+* [Common Logic (CL)](https://en.wikipedia.org/wiki/Common_Logic) - A language with an abstract syntax and semantics which are given in the ISO standard.
+  * Common Logic Interchange Format (CLIF)
+  * Conceptual Graph Interchange Format (CGIF)
+  * eXtended Common Logic Markup Language (XCL)
+* [CycL](http://www.cyc.com/documentation/ontologists-handbook/cyc-basics/syntax-cycl/) - A language with a concrete syntax based on first-order predicate calculus and Lisp.
+* KL-ONE -
+* Knowledge Interchange Format (KIF) -
+* [Loom](https://www.isi.edu/isd/LOOM/) -
+* [OWL 2 Web Ontology Language](https://www.w3.org/TR/owl2-overview/) - A language with [an abstract syntax](https://www.w3.org/TR/owl2-syntax/) and [semantics](https://www.w3.org/TR/owl2-direct-semantics/). It has a few defined (reserved) vocabulary terms (see [2.4, Table 3](https://www.w3.org/TR/owl2-syntax/) and [2.2](https://www.w3.org/TR/owl2-direct-semantics/)). The language is compatible with RDF by [the mapping between the OWL 2 language and the RDF language](https://www.w3.org/TR/owl2-mapping-to-rdf/).
+  * Manchester Syntax
+  * OWL/XML
+* [RDF (Resource Description Framework) 1.1](https://en.wikipedia.org/wiki/Resource_Description_Framework) - A language with [an abstract syntax (a data model)](https://www.w3.org/TR/rdf11-concepts/) based on the subject-predicate-object triple and [semantics](https://www.w3.org/TR/rdf11-mt/). For no vocabulary is defined in itself, it is used with RDF Schema vocabulary (see RDF Schema in [Vocabularies](#vocabularies)).
+  * JSON-LD
+  * N-Triples
+  * N-Quads
+  * RDFa
+  * RDF/XML
+  * Turtle
+  * TriG
 
 See also:
 
+* [Logics](#logics) section of this list
 * [Ontology language](https://en.wikipedia.org/wiki/Ontology_language) in Wikipedia
 
 ## Vocabularies
