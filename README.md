@@ -68,7 +68,7 @@ See also:
 
 ## Vocabularies
 
-A vocabulary is a set of terms for a language.
+> A vocabulary is a set of terms for a language.
 
 * [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/) - A vocabulary of fifteen properties for use in resource description.
 * [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
@@ -138,7 +138,7 @@ See also:
 
 ## Reasoners
 
-A reasoner is a program which infers explanatory or new facts and detects inconsistencies in ontology and knowledge base based on the logic associated.
+> A reasoner is a program which infers explanatory or new facts and detects inconsistencies in ontology and knowledge base based on the logic associated.
 
 * [CEL](https://julianmendez.github.io/cel/) - A lightweight Description Logic (EL+) reasoner for large-scale biomedical ontologies. (Common Lisp+Java)
 * [ELK](https://github.com/liveontologies/elk-reasoner) - An ontology reasoner that aims to support the OWL 2 EL profile. (Java)
