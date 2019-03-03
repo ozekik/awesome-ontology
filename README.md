@@ -32,6 +32,7 @@ Archived or inactive:
 * [Apollo](http://apollo.open.ac.uk/) (last updated ~2005) - A user-friendly knowledge modelling application.
 * [NeOn Toolkit](http://neon-toolkit.org/wiki/Main_Page.html) (last updated 2011) - A state-of-the-art, open source multi-platform ontology engineering environment, which provides comprehensive support for the ontology engineering life-cycle.
 * [SWOOP](https://github.com/ronwalf/swoop) (last updated 2007) - An OWL Ontology browser/editor that takes the standard Web browser as the basic UI paradigm.
+* [WebODE](https://github.com/oeg-upm/webODE) (discontinued in 2006) - An extensible ontology-engineering suite based on an application server.
 
 See also:
 
