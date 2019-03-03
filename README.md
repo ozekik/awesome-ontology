@@ -36,6 +36,7 @@ Archived or inactive:
 See also:
 
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
+* [A List of Ontology Engineering Tools (Ontology Editors)](https://web.archive.org/web/20170827085837/http://www.hozo.jp/OntoTools/) by the Hozo group
 
 ## Languages
 
