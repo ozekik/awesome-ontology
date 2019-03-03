@@ -10,7 +10,7 @@
 * [Ontologies](#ontologies)
   * [Upper-level](#upper-level-ontologies)
   * [Mid-level](#mid-level-ontologies)
-  * [Large](#large-ontologies)
+  * [Cross-domain](#cross-domain-ontologies)
   * [Domain](#domain-ontologies)
 * [Logics](#logics)
 * [Reasoners](#reasoners)
@@ -95,25 +95,34 @@ See also:
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
 * [DBpedia Ontology](https://wiki.dbpedia.org/services-resources/ontology) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
 * [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) - 
+* [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
 * [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) - 
 * [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) - An ontology consists of ~70 classes.
 * [YAMATO (Yet Another More Advanced Top-level Ontology)](http://download.hozo.jp/onto_library/upperOnto.htm) - 
 
 ### Mid-level Ontologies
 
+* [KYOTO 3 Middle](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~350 classes.
+* [MILO (Mid-Level Ontology)](https://github.com/ontologyportal/sumo/blob/master/Mid-level-ontology.kif) in [SUMO](http://www.adampease.org/OP/) -
 * [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Reference Concepts (Reference Concepts ontology) -
 
-### Large Ontologies
+### Cross-domain Ontologies
 
-* [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - 
+#### Large
+
+* [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - A knowledge base which contains more than 630,000 concepts.
 * [DBpedia](https://wiki.dbpedia.org/) - 
-* [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines.
-* [WordNet](https://wordnet.princeton.edu/) - A large lexical Database of English.
-* [YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) - A huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
+* [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines. It contains more than 55,000,000 data items.
+* [WordNet](https://wordnet.princeton.edu/) - A large lexical database of English. It consists of ~117,000 synsets (groups of synonyms).
+* [YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) - A huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames. It has knowledge of more than 10 million (10,000,000) entities.
 
 Archived or inactive:
 
 * [Freebase](https://developers.google.com/freebase/) - 
+
+#### Small to Medium
+
+* [KYOTO 3 Domain](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~1900 classes.
 
 ### Domain Ontologies
 
