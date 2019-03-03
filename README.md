@@ -9,6 +9,7 @@
 * [Vocabularies](#vocabularies)
 * [Ontologies](#ontologies)
   * [Upper-level](#upper-level-ontologies)
+  * [Mid-level](#mid-level-ontologies)
   * [Large](#large-ontologies)
   * [Domain](#domain-ontologies)
 * [Logics](#logics)
@@ -93,7 +94,12 @@ See also:
 * [DBpedia Ontology](https://wiki.dbpedia.org/services-resources/ontology) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
 * [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) - 
 * [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) - 
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) - An ontology consists of ~70 classes.
 * [YAMATO (Yet Another More Advanced Top-level Ontology)](http://download.hozo.jp/onto_library/upperOnto.htm) - 
+
+### Mid-level Ontologies
+
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Reference Concepts (Reference Concepts ontology) -
 
 ### Large Ontologies
 
