@@ -5,6 +5,7 @@
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
+* [Tools](#tools)
 * [Languages](#languages)
 * [Vocabularies](#vocabularies)
 * [Ontologies](#ontologies)
@@ -41,6 +42,10 @@ See also:
 
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
 * [A List of Ontology Engineering Tools (Ontology Editors)](https://web.archive.org/web/20170827085837/http://www.hozo.jp/OntoTools/) by the Hozo group
+
+## Tools
+
+* [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
 
 ## Languages
 
