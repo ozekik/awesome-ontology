@@ -14,6 +14,8 @@
   * [Domain](#domain-ontologies)
 * [Logics](#logics)
 * [Reasoners](#reasoners)
+* [Querying](#querying)
+* [Validation and Schema Definition](#validation-and-schema-definition)
 * [Related](#related)
 
 ## Ontology Editors
@@ -186,6 +188,16 @@ Archived or inactive:
 See also:
 
 * [How does a reasoner work?](http://ontogenesis.knowledgeblog.org/1486) - An introductory article by Uli Sattler, Robert Stevens, and Phillip Lord
+
+## Querying
+
+* [SPARQL 1.1](https://www.w3.org/TR/sparql11-query/) - A set of specifications that provide languages and protocols to query and manipulate RDF graph content on the Web or in an RDF store.
+
+## Validation and Schema Definition
+
+* [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL) -
+* [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx) -
+* [SPIN (SPARQL Inferencing Notation)](http://spinrdf.org/) -
 
 ## Related
 
