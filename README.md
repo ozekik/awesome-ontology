@@ -15,7 +15,7 @@
 * [Logics](#logics)
 * [Reasoners](#reasoners)
 * [Querying](#querying)
-* [Validation and Schema Definition](#validation-and-schema-definition)
+* [Rule and Schema Definition](#rule-and-schema-definition)
 * [Related](#related)
 
 ## Ontology Editors
@@ -193,11 +193,12 @@ See also:
 
 * [SPARQL 1.1](https://www.w3.org/TR/sparql11-query/) - A set of specifications that provide languages and protocols to query and manipulate RDF graph content on the Web or in an RDF store.
 
-## Validation and Schema Definition
+## Rule and Schema Definition
 
 * [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL) -
 * [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx) -
 * [SPIN (SPARQL Inferencing Notation)](http://spinrdf.org/) -
+* [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
 
 ## Related
 
