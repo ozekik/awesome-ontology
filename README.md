@@ -125,6 +125,10 @@ Archived or inactive:
 
 * [Freebase](https://developers.google.com/freebase/) - 
 
+See also:
+
+* [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/) - A list of open wordnets in a variety of languages, all linked to the Princeton WordNet of English (PWN).
+
 #### Small to Medium
 
 * [KYOTO 3 Domain](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~1900 classes.
