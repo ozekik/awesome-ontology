@@ -209,7 +209,14 @@ See also:
 
 ## Querying
 
+* [DL Query (class expression)](https://protegewiki.stanford.edu/wiki/DLQueryTab) - A query language supported by the DL Query tab plugin for Protégé based on the Manchester OWL syntax.
 * [SPARQL 1.1](https://www.w3.org/TR/sparql11-query/) - A set of specifications that provide languages and protocols to query and manipulate RDF graph content on the Web or in an RDF store.
+  * [SPARQL-DL](http://ceur-ws.org/Vol-258/paper14.pdf) - A substantial subset of SPARQL that can be covered by the standard reasoning services OWL-DL reasoners provide. It is implemented in the Pellet reasoner.
+  * [SPARQL-OWL algorithm](http://ceur-ws.org/Vol-796/owled2011_submission_4.pdf) - A sound and complete algorithm for answering SPARQL-OWL, SPARQL queries under the OWL 2 Direct Semantics entailment regime.
+
+See also:
+
+* [[protege-user] which is the best query language for owl ontologies?](https://mailman.stanford.edu/pipermail/protege-user/2016-August/004995.html)
 
 ## Rule and Schema Definition
 
