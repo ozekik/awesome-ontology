@@ -70,6 +70,7 @@ See also:
   * RDF/XML
   * Turtle
   * TriG
+  * [HDT](http://www.rdfhdt.org/)
 
 See also:
 
