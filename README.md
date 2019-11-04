@@ -101,6 +101,7 @@ See also:
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
 * [DBpedia Ontology](https://wiki.dbpedia.org/services-resources/ontology) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
 * [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) - 
+* [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
 * [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) - 
 * [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) - An ontology consists of ~70 classes.
@@ -116,11 +117,13 @@ See also:
 
 #### Large
 
+* [ConceptNet](http://conceptnet.io/) - An open, multilingual knowledge graph.
 * [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - A knowledge base which contains more than 630,000 concepts.
-* [DBpedia](https://wiki.dbpedia.org/) - 
+* [DBpedia](https://wiki.dbpedia.org/) - A crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
 * [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines. It contains more than 55,000,000 data items.
 * [WordNet](https://wordnet.princeton.edu/) - A large lexical database of English. It consists of ~117,000 synsets (groups of synonyms).
 * [YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) - A huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames. It has knowledge of more than 10 million (10,000,000) entities.
+* [Xlore](https://xlore.org/) - A large-scale multilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French wikipedia, and Baidu Baike.
 
 Archived or inactive:
 
