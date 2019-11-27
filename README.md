@@ -93,8 +93,9 @@ See also:
 
 See also:
 
-* [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) on W3C Wiki - A short meta-list of lists of ontologies.
+* [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) in W3C Wiki - A short meta-list of lists of ontologies.
 * [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding
+* [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies
 
 ### Upper-level Ontologies
 
