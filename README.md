@@ -94,8 +94,9 @@ See also:
 See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) in W3C Wiki - A short meta-list of lists of ontologies.
-* [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding
-* [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies
+* [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding.
+* [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies.
+* [KBS/Ontology Projects Worldwide](http://www.cs.utexas.edu/users/mfkb/related.html) - A List of 300+ ontologies and related resouces, maintaned by [Peter Clark](http://www.cs.utexas.edu/users/pclark/).
 
 ### Upper-level Ontologies
 
@@ -105,8 +106,11 @@ See also:
 * [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
 * [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) - 
-* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) - An ontology consists of ~70 classes.
 * [YAMATO (Yet Another More Advanced Top-level Ontology)](http://download.hozo.jp/onto_library/upperOnto.htm) - 
+
+Archived or inactive:
+
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) (merged to KBpedia in 2019) - An ontology consists of ~70 classes.
 
 ### Mid-level Ontologies
 
@@ -129,7 +133,10 @@ See also:
 
 Archived or inactive:
 
-* [Freebase](https://developers.google.com/freebase/) - 
+* [Freebase](https://developers.google.com/freebase/) (shut down in 2016) - 
+* [MindNet](https://www.microsoft.com/en-us/research/project/mindnet/) (~2001?) - ... by Microsoft.
+* [SENSUS](https://www.isi.edu/natural-language/resources/sensus.html) - 
+* [Mikrokosmos]() - 
 
 See also:
 
@@ -162,6 +169,7 @@ See also:
 
 * [Wine Ontology](https://www.w3.org/TR/owl-guide/wine.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
 * [Food Ontology](https://www.w3.org/TR/2004/REC-owl-guide-20040210/food.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
+* [FoodOn](https://foodon.org/) - An ontology built to interoperate with the OBO Library and to represent entities which bear a "food role".
 
 #### Geography
 
