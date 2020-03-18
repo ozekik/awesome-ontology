@@ -7,12 +7,12 @@ A curated list of ontology things. Your contribution is welcome!
 * [Ontology Editors](#ontology-editors)
 * [Tools](#tools)
 * [Languages](#languages)
-* [Vocabularies](#vocabularies)
-* [Ontologies](#ontologies)
+* [Ontologies and Vocabularies](#ontologies-and-vocabularies)
   * [Upper-level](#upper-level-ontologies)
   * [Mid-level](#mid-level-ontologies)
   * [Cross-domain](#cross-domain-ontologies)
   * [Domain](#domain-ontologies)
+  * [Vocabularies](#vocabularies)
 * [Logics](#logics)
 * [Reasoners](#reasoners)
 * [Querying](#querying)
@@ -76,19 +76,7 @@ See also:
 * [Logics](#logics) section of this list
 * [Ontology language](https://en.wikipedia.org/wiki/Ontology_language) in Wikipedia
 
-## Vocabularies
-
-> A vocabulary is a set of terms for a language.
-
-* [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/) - A vocabulary of fifteen properties for use in resource description.
-* [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
-* [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
-* [Open Graph protocol](http://ogp.me/) -
-* [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
-* [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
-* [Schema.org Schemas](https://schema.org/docs/full.html) -
-
-## Ontologies
+## Ontologies and Vocabularies
 
 See also:
 
@@ -182,6 +170,18 @@ See also:
 
 * [Friend Of A Friend (FOAF)](http://www.foaf-project.org/) - A computer language defining a dictionary of people-related terms that can be used in structured data.
 * [vCard Ontology](https://www.w3.org/TR/vcard-rdf/) - An ontology for describing people and organizations. A mapping of the vCard specification (RFC6350) to RDF/OWL.
+
+### Vocabularies
+
+> A vocabulary is a set of terms for a language.
+
+* [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/) - A vocabulary of fifteen properties for use in resource description.
+* [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
+* [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
+* [Open Graph protocol](http://ogp.me/) -
+* [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
+* [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
+* [Schema.org Schemas](https://schema.org/docs/full.html) -
 
 ## Logics
 
