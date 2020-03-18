@@ -84,6 +84,9 @@ See also:
 * [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding.
 * [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies.
 * [KBS/Ontology Projects Worldwide](http://www.cs.utexas.edu/users/mfkb/related.html) - A List of 300+ ontologies and related resouces, maintaned by [Peter Clark](http://www.cs.utexas.edu/users/pclark/).
+* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/) -
+* [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
+* [The Linked Open Data Cloud](https://lod-cloud.net/) -
 
 ### Upper-level Ontologies
 
