@@ -22,19 +22,18 @@
 ## Ontology Editors
 
 * [Fluent Editor](https://www.cognitum.eu/Semantics/FluentEditor/) - An award winning comprehensive tool for editing and manipulating complex ontologies that uses Controlled Natural Language.
-* [Knoodl](http://knoodl.com/) - 
-* [OntoStudio](http://www.semafora-systems.com/en/products/ontostudio/) (formerly OntoEdit) - A most widespread commercial modeling environment for  creating and maintaining ontologies.
+* [OntoStudio](https://www.semafora-systems.com/ontobroker-and-ontostudio-x) (formerly OntoEdit) - A most widespread commercial modeling environment for creating and maintaining ontologies.
 * [OWLGrEd](http://owlgred.lumii.lv/) - A UML Style Graphical Editor for OWL.
 * [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.
-* [Semantic Turkey](http://semanticturkey.uniroma2.it/) - A RDF service platform for Knowledge Management and Acquisition.
-* [TopBraid Composer](https://www.topquadrant.com/tools/modeling-topbraid-composer-standard-edition/) Series - 
-* [Vitro](http://vitro.mannlib.cornell.edu/) - A general-purpose web-based ontology and instance editor with customizable public browsing.
-* [VocBench](http://vocbench.uniroma2.it/) - A web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.
+* [TopBraid Composer](https://www.topquadrant.com/tools/modeling-topbraid-composer-standard-edition/) Series - A powerful Integrated Development Environment (IDE) for implementing Knowledge Graph/Linked Data services by TopQuadrant, Inc.
+* [Vitro](https://github.com/vivo-project/Vitro) - A general-purpose web-based ontology and instance editor with customizable public browsing.
+* [VocBench](http://vocbench.uniroma2.it/) and [Semantic Turkey](http://semanticturkey.uniroma2.it/) - VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets. Its backend, Semantic Turkey is a RDF service platform for Knowledge Management and Acquisition.
 
 Archived or inactive:
 
 * [Apollo](http://apollo.open.ac.uk/) (last updated ~2005) - A user-friendly knowledge modelling application.
 * [NeOn Toolkit](http://neon-toolkit.org/wiki/Main_Page.html) (last updated 2011) - A state-of-the-art, open source multi-platform ontology engineering environment, which provides comprehensive support for the ontology engineering life-cycle.
+* [Knoodl](https://web.archive.org/web/20190703092924/http://knoodl.com/) (last updated ~2017) - An ontology-driven "Distributed Information Management System" (DIMS) by Revelytix, Inc.
 * [SWOOP](https://github.com/ronwalf/swoop) (last updated 2007) - An OWL Ontology browser/editor that takes the standard Web browser as the basic UI paradigm.
 * [WebODE](https://github.com/oeg-upm/webODE) (discontinued in 2006) - An extensible ontology-engineering suite based on an application server.
 
@@ -84,10 +83,10 @@ See also:
 * [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/) - A vocabulary of fifteen properties for use in resource description.
 * [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) - An extension of the Dublin Core Metadata Element Set.
 * [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
-* [Open Graph protocol](http://ogp.me/) - 
+* [Open Graph protocol](http://ogp.me/) -
 * [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
 * [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
-* [Schema.org Schemas](https://schema.org/docs/full.html) - 
+* [Schema.org Schemas](https://schema.org/docs/full.html) -
 
 ## Ontologies
 
@@ -102,11 +101,11 @@ See also:
 
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
 * [DBpedia Ontology](https://wiki.dbpedia.org/services-resources/ontology) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
-* [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) - 
+* [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) -
 * [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
-* [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) - 
-* [YAMATO (Yet Another More Advanced Top-level Ontology)](http://download.hozo.jp/onto_library/upperOnto.htm) - 
+* [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) -
+* [YAMATO (Yet Another More Advanced Top-level Ontology)](http://download.hozo.jp/onto_library/upperOnto.htm) -
 
 Archived or inactive:
 
@@ -133,10 +132,10 @@ Archived or inactive:
 
 Archived or inactive:
 
-* [Freebase](https://developers.google.com/freebase/) (shut down in 2016) - 
+* [Freebase](https://developers.google.com/freebase/) (shut down in 2016) -
 * [MindNet](https://www.microsoft.com/en-us/research/project/mindnet/) (~2001?) - ... by Microsoft.
-* [SENSUS](https://www.isi.edu/natural-language/resources/sensus.html) - 
-* [Mikrokosmos]() - 
+* [SENSUS](https://www.isi.edu/natural-language/resources/sensus.html) -
+* [Mikrokosmos]() -
 
 See also:
 
@@ -243,7 +242,7 @@ See also:
 ## Related
 
 * [Awesome-Knowledge-Bases](https://github.com/buaaliuming/Awesome-Knowledge-Bases) - Available knowledge bases, Ontology, Knowledge Graph or taxonomy.
-* [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) - 
+* [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) -
 List of projects related to Ontology engineering and Semantic Web technologies that make a geek smile for they exist.
 * [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 * [jbenner-radham/awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
