@@ -17,6 +17,7 @@ A curated list of ontology things. Your contribution is welcome!
 * [Reasoners](#reasoners)
 * [Querying](#querying)
 * [Rule and Schema Definition](#rule-and-schema-definition)
+* [Programming](#programming)
 * [Related](#related)
 
 ## Ontology Editors
@@ -241,6 +242,18 @@ See also:
 * [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx) -
 * [SPIN (SPARQL Inferencing Notation)](http://spinrdf.org/) -
 * [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
+
+## Programming
+
+### OWL-aware libraries
+
+* [Apache Jena Ontology API](https://jena.apache.org/documentation/ontology/) -
+* [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies.
+* [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python.
+
+Archived or inactive:
+
+* [OPPL](http://oppl2.sourceforge.net/) - An abstract formalism that allows for manipulating ontologies written in OWL.
 
 ## Related
 
