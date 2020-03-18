@@ -1,6 +1,6 @@
 # Awesome Ontology
 
-> A curated list of ontology things.
+A curated list of ontology things. Your contribution is welcome!
 
 ## Contents
 
