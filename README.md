@@ -5,7 +5,7 @@ A curated list of ontology things. Your contribution is welcome!
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
-* [Tools](#tools)
+* [Ontology Tools](#ontology-tools)
 * [Languages](#languages)
 * [Ontologies and Vocabularies](#ontologies-and-vocabularies)
   * [Upper-level](#upper-level-ontologies)
@@ -43,9 +43,10 @@ See also:
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
 * [A List of Ontology Engineering Tools (Ontology Editors)](https://web.archive.org/web/20170827085837/http://www.hozo.jp/OntoTools/) by the Hozo group
 
-## Tools
+## Ontology Tools
 
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
+* [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 
 ## Languages
 
@@ -249,6 +250,8 @@ See also:
 * [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
 
 ## Programming
+
+See also: [Ontology Tools](#ontology-tools) section.
 
 ### OWL-aware libraries
 
