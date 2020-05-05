@@ -63,15 +63,16 @@ See also:
   * Manchester Syntax
   * OWL/XML
 * [RDF (Resource Description Framework) 1.1](https://en.wikipedia.org/wiki/Resource_Description_Framework) - A language with [an abstract syntax (a data model)](https://www.w3.org/TR/rdf11-concepts/) based on the subject-predicate-object triple and [semantics](https://www.w3.org/TR/rdf11-mt/). For no vocabulary is defined in itself, it is used with RDF Schema vocabulary (see [Vocabularies](#vocabularies)).
-  * JSON-LD
-  * Notation3 (N3)
-  * N-Quads
-  * N-Triples
-  * RDFa
-  * RDF/XML
-  * Turtle
-  * TriG
-  * [HDT](http://www.rdfhdt.org/)
+  * [HDT](http://www.rdfhdt.org/) (2010~)
+  * [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) (2010~)
+  * [Notation3](https://en.wikipedia.org/wiki/Notation3) (N3) (2008~)
+  * [N-Quads](https://en.wikipedia.org/wiki/N-Triples#N-Quads) (2014~)
+  * [N-Triples](https://en.wikipedia.org/wiki/N-Triples) (2001/2014~)
+  * [RDFa](https://en.wikipedia.org/wiki/RDFa) (2004~)
+  * [RDF/XML](https://en.wikipedia.org/wiki/RDF/XML) (2002/2004~)
+  * [TriG](https://en.wikipedia.org/wiki/TriG_(syntax)) (2007/2014~)
+  * [TriX](https://en.wikipedia.org/wiki/TriX_(serialization_format)) (2004~, inactive)
+  * [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) ([2004](https://www.w3.org/TeamSubmission/2008/SUBM-turtle-20080114/#sec-acks)/2014~)
 
 See also:
 
