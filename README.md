@@ -51,6 +51,11 @@ See also:
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 
+Generic RDF tools:
+
+* [Tarql](https://tarql.github.io/) - Python tool to turn CSV into RDF using SPARQL syntax.
+* [VocPrez](https://github.com/RDFLib/VocPrez/) - Python tool (API and web front-end) for the read-only delivery system of SKOS vocabularies.
+
 ## Languages
 
 * [Common Logic (CL)](https://en.wikipedia.org/wiki/Common_Logic) - A language with an abstract syntax and semantics which are given in the ISO standard.
