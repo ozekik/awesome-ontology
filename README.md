@@ -13,7 +13,7 @@ A curated list of ontology things. Your contribution is welcome!
   * [Cross-domain](#cross-domain-ontologies)
   * [Domain](#domain-ontologies)
   * [Vocabularies](#vocabularies)
-* [Alignment & Matching](#alignment-matching)
+* [Alignment & Matching](#alignment--matching)
 * [Logics](#logics)
 * [Reasoners](#reasoners)
 * [Querying](#querying)
