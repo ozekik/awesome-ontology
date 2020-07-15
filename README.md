@@ -98,6 +98,7 @@ See also:
 * [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/) -
 * [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
 * [The Linked Open Data Cloud](https://lod-cloud.net/) -
+* [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
 
 ### Upper-level Ontologies
 
