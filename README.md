@@ -122,6 +122,7 @@ Archived or inactive:
 * [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - A knowledge base which contains more than 630,000 concepts.
 * [DBpedia](https://wiki.dbpedia.org/) - A crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
 * [KBpedia](http://kbpedia.org/) - A comprehensive knowledge structure for promoting data interoperability and knowledge-based artificial intelligence (KBAI). It combines Wikipedia, Wikidata, schema.org, DBpedia, GeoNames, OpenCyc, and UMBEL.
+* [Mosaic Knowledge Graphs](https://mosaickg.apps.allenai.org/) - ATOMIC + ConceptNet combination by AllenAI.
 * [NELL ontology and knowledge base](http://nell-ld.telecom-st-etienne.fr/) - An ontology developed by the Never-Ending Language Learning (NELL) project.
 * [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines. It contains more than 55,000,000 data items.
 * [WordNet](https://wordnet.princeton.edu/) - A large lexical database of English. It consists of ~117,000 synsets (groups of synonyms).
