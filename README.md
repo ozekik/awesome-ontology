@@ -13,6 +13,7 @@ A curated list of ontology things. Your contribution is welcome!
   * [Cross-domain](#cross-domain-ontologies)
   * [Domain](#domain-ontologies)
   * [Vocabularies](#vocabularies)
+* [Alignment & Matching](#alignment-matching)
 * [Logics](#logics)
 * [Reasoners](#reasoners)
 * [Querying](#querying)
@@ -195,6 +196,17 @@ See also:
 * [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
 * [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
 * [Schema.org Schemas](https://schema.org/docs/full.html) -
+
+## Alignment & Matching
+
+- [AgreementMakerLight (AML)](https://github.com/AgreementMakerLight/AML-Project) - Ontology matching system developed by LASIGE (FCUL, Portugal) in collaboration with the ADVIS Lab (UIC, USA).
+- [LogMap](https://github.com/ernestojimenezruiz/logmap-matcher) - Highly scalable ontology matching system with "built-in" reasoning and inconsistency repair capabilities.
+- [OntoEMMA](https://github.com/allenai/ontoemma) -  Ontology matcher by AllenAI.
+
+See also:
+
+- [Ontology Matching](http://www.ontologymatching.org/index.html) website - Hosting OM (International Workshop on Ontology Matching) and OAEI (Ontology Alignment Evaluation Initiative).
+- [Alignment API](http://alignapi.gforge.inria.fr/) - Ontology Alignment API specification. (implemented in Java)
 
 ## Logics
 
