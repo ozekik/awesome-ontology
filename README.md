@@ -40,7 +40,7 @@ Archived or inactive:
 
 See also:
 
-* [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editor) in Wikipedia
+* [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editors) in Wikipedia
 * [A List of Ontology Engineering Tools (Ontology Editors)](https://web.archive.org/web/20170827085837/http://www.hozo.jp/OntoTools/) by the Hozo group
 
 ## Ontology Tools
@@ -95,7 +95,7 @@ See also:
 
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
 * [DBpedia Ontology](https://wiki.dbpedia.org/services-resources/ontology) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
-* [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/old/DOLCE.html) -
+* [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/dolce/overview.html) - A foundational ontology originally developed in WonderWeb project. ([old page](https://web.archive.org/web/20180716182415/http://www.loa.istc.cnr.it/old/DOLCE.html))
 * [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
 * [SUMO (Suggested Upper Merged Ontology)](http://www.adampease.org/OP/) -
@@ -266,10 +266,10 @@ Archived or inactive:
 
 ## Related
 
-* [Awesome-Knowledge-Bases](https://github.com/buaaliuming/Awesome-Knowledge-Bases) - Available knowledge bases, Ontology, Knowledge Graph or taxonomy.
-* [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) -
+* [buaaliuming/Awesome-Knowledge-Bases](https://github.com/buaaliuming/Awesome-Knowledge-Bases) - Available knowledge bases, Ontology, Knowledge Graph or taxonomy.
+* [costezki/awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) -
 List of projects related to Ontology engineering and Semantic Web technologies that make a geek smile for they exist.
 * [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 * [jbenner-radham/awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
-* [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business) - A curated list of awesome resources that feature usages of Semantic Web technologies in business cases (applications).
+* [KMax/awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business) - A curated list of awesome resources that feature usages of Semantic Web technologies in business cases (applications).
 * [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources.
