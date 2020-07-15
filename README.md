@@ -45,7 +45,9 @@ See also:
 
 ## Ontology Tools
 
+* [LODE](https://essepuntato.it/lode/) - Java ontology documentation generator to convert OWL ontologies into HTML human-readable pages.
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
+* [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 
 ## Languages
