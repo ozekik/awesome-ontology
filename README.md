@@ -81,6 +81,7 @@ Generic RDF tools:
   * [TriG](https://en.wikipedia.org/wiki/TriG_(syntax)) (2007/2014~)
   * [TriX](https://en.wikipedia.org/wiki/TriX_(serialization_format)) (2004~, inactive)
   * [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) ([2004](https://www.w3.org/TeamSubmission/2008/SUBM-turtle-20080114/#sec-acks)/2014~)
+  * [RDF*](https://w3c.github.io/rdf-star/) (generic extension of RDF, 2019~)
 
 See also:
 
@@ -259,6 +260,7 @@ See also:
 * [SPARQL 1.1](https://www.w3.org/TR/sparql11-query/) - A set of specifications that provide languages and protocols to query and manipulate RDF graph content on the Web or in an RDF store.
   * [SPARQL-DL](http://ceur-ws.org/Vol-258/paper14.pdf) - A substantial subset of SPARQL that can be covered by the standard reasoning services OWL-DL reasoners provide. It is implemented in the Pellet reasoner.
   * [SPARQL-OWL algorithm](http://ceur-ws.org/Vol-796/owled2011_submission_4.pdf) - A sound and complete algorithm for answering SPARQL-OWL, SPARQL queries under the OWL 2 Direct Semantics entailment regime.
+  * [SPARQL*](https://w3c.github.io/rdf-star/#sparql-query-language) - An RDF*-aware extension of the RDF query language SPARQL.
 
 See also:
 
