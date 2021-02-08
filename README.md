@@ -6,6 +6,7 @@ A curated list of ontology things. Your contribution is welcome!
 
 * [Ontology Editors](#ontology-editors)
 * [Ontology Tools](#ontology-tools)
+* [Datastore](#datastore)
 * [Languages](#languages)
 * [Ontologies and Vocabularies](#ontologies-and-vocabularies)
   * [Upper-level](#upper-level-ontologies)
@@ -47,14 +48,22 @@ See also:
 ## Ontology Tools
 
 * [LODE](https://essepuntato.it/lode/) - Java ontology documentation generator to convert OWL ontologies into HTML human-readable pages.
+* [obonet](https://github.com/dhimmel/obonet) - Python library to convert OBO-formatted ontologies to networkx graphs.
+* [OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub.
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
+* [OWLTools](https://github.com/owlcollab/owltools) - Java API and command-line utilities on top of the OWL API.
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
+* [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 
 Generic RDF tools:
 
 * [Tarql](https://tarql.github.io/) - Python tool to turn CSV into RDF using SPARQL syntax.
 * [VocPrez](https://github.com/RDFLib/VocPrez/) - Python tool (API and web front-end) for the read-only delivery system of SKOS vocabularies.
+
+## Datastore
+
+* [SciGraph](https://github.com/SciGraph/SciGraph) - Neo4j backed ontology store.
 
 ## Languages
 
