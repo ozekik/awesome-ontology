@@ -20,6 +20,7 @@ A curated list of ontology things. Your contribution is welcome!
 * [Querying](#querying)
 * [Rule and Schema Definition](#rule-and-schema-definition)
 * [Programming](#programming)
+* [Communities](#communities)
 * [Related](#related)
 
 ## Ontology Editors
@@ -308,6 +309,11 @@ See also: [Ontology Tools](#ontology-tools) section.
 Archived or inactive:
 
 * [OPPL](http://oppl2.sourceforge.net/) - An abstract formalism that allows for manipulating ontologies written in OWL.
+
+## Communities
+
+* [Ontology Alignment Evaluation Initiative](http://oaei.ontologymatching.org/) (OAEI)
+* [Association for Ontology Design & Patterns](http://ontologydesignpatterns.org/wiki/ODPA) (ODPA)
 
 ## Related
 
