@@ -73,9 +73,7 @@ Generic RDF tools:
   * Conceptual Graph Interchange Format (CGIF)
   * eXtended Common Logic Markup Language (XCL)
 * [CycL](http://www.cyc.com/documentation/ontologists-handbook/cyc-basics/syntax-cycl/) - A language with a concrete syntax based on first-order predicate calculus and Lisp.
-* KL-ONE -
 * Knowledge Interchange Format (KIF) -
-* [Loom](https://www.isi.edu/isd/LOOM/) -
 * [OBO Format (OBOF)](http://purl.obolibrary.org/obo/oboformat/spec.html) - A language used in the OBO Foundry with a concrete syntax and semantics which maps the language to OWL2-DL.
 * [OWL 2 Web Ontology Language](https://www.w3.org/TR/owl2-overview/) - A language with [an abstract syntax](https://www.w3.org/TR/owl2-syntax/) and [semantics](https://www.w3.org/TR/owl2-direct-semantics/). It has a few defined (reserved) vocabulary terms (see [2.4, Table 3](https://www.w3.org/TR/owl2-syntax/) and [2.2](https://www.w3.org/TR/owl2-direct-semantics/)). The language is compatible with RDF by [the mapping between the OWL 2 language and the RDF language](https://www.w3.org/TR/owl2-mapping-to-rdf/). It can be extended with Description Logics (see [Logics](#logics)).
   * Manchester Syntax
@@ -92,6 +90,11 @@ Generic RDF tools:
   * [TriX](https://en.wikipedia.org/wiki/TriX_(serialization_format)) (2004~, inactive)
   * [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) ([2004](https://www.w3.org/TeamSubmission/2008/SUBM-turtle-20080114/#sec-acks)/2014~)
   * [RDF*](https://w3c.github.io/rdf-star/) (generic extension of RDF, 2019~)
+
+Archived or inactive:
+
+* KL-ONE
+* [Loom](https://www.isi.edu/isd/LOOM/)
 
 See also:
 
@@ -291,10 +294,13 @@ See also:
 
 ## Rule and Schema Definition
 
-* [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL) -
-* [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx) -
-* [SPIN (SPARQL Inferencing Notation)](http://spinrdf.org/) -
+* [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL)
+* [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx)
 * [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
+
+Archived or inactive:
+
+* [SPIN (SPARQL Inferencing Notation)](http://spinrdf.org/) (virtually succeeded by SHACL, see [From SPIN to SHACL](https://spinrdf.org/spin-shacl.html))
 
 ## Programming
 
