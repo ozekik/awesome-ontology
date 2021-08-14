@@ -109,6 +109,7 @@ See also:
 * [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
 * [The Linked Open Data Cloud](https://lod-cloud.net/) -
 * [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
+* <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
 
 ### Upper-level Ontologies
 
@@ -192,6 +193,18 @@ See also:
 #### Geography
 
 * [Geographical Entity Ontology](http://www.obofoundry.org/ontology/geo.html) - An ontology of geographical entities implemented in OWL 2 and based on Basic Formal Ontology (BFO).
+
+#### Humanities
+
+See:
+
+* [CLARIAH/awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) - A curated list of ontologies for Digital Humanities.
+
+#### Legal
+
+See:
+
+* [Liquid-Legal-Institute/Legal-Ontologies](https://github.com/Liquid-Legal-Institute/Legal-Ontologies) - A list of selected resources, methods, and tools dedicated to legal data schemes and ontologies.
 
 #### News
 
