@@ -95,6 +95,7 @@ Archived or inactive:
 
 * KL-ONE
 * [Loom](https://www.isi.edu/isd/LOOM/)
+* [Nanotation](https://www.w3.org/community/rww/wiki/Nanotation) (2014, inactive)
 
 See also:
 
