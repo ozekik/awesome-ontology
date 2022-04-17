@@ -56,6 +56,7 @@ See also:
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
+* [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
 
 Generic RDF tools:
 
@@ -328,6 +329,7 @@ Archived or inactive:
 * [jbenner-radham/awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 * [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources.
 * [Materials-Data-Science-and-Informatics/awesome-fair-data](https://github.com/Materials-Data-Science-and-Informatics/awesome-fair-data) - A curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable.
+* [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - A (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...).
 
 Archived or inactive:
 
