@@ -26,6 +26,7 @@ A curated list of ontology things. Your contribution is welcome!
 ## Ontology Editors
 
 * [Fluent Editor](https://www.cognitum.eu/Semantics/FluentEditor/) - An award winning comprehensive tool for editing and manipulating complex ontologies that uses Controlled Natural Language.
+* [OntoME](https://ontome.net/) - Designed for any object-oriented structured data model to build, manage and align your ontology, or to simply browse through the existing ontologies. ([GitHub](https://github.com/Semantic-Data-for-Humanities/OntoME) for issues)
 * [OntoStudio](https://www.semafora-systems.com/ontobroker-and-ontostudio-x) (formerly OntoEdit) - A most widespread commercial modeling environment for creating and maintaining ontologies.
 * [OWLGrEd](http://owlgred.lumii.lv/) - A UML Style Graphical Editor for OWL.
 * [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.
