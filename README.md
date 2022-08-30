@@ -58,6 +58,7 @@ See also:
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
+* [OAK](https://incatools.github.io/ontology-access-kit/) - The Ontology Access Kit, a python library and command line tool for ontologies
 
 Generic RDF tools:
 
@@ -177,6 +178,7 @@ See also:
 #### Biology
 
 * [Gene Ontology (GO)](http://geneontology.org/) -  The world’s largest source of information on the functions of genes.
+* [Uberon](http://obofoundry.org/ontology/uberon) - all body parts across all animals
 
 #### Commerce
 
@@ -270,6 +272,7 @@ See also:
 * [Openllet](https://github.com/Galigator/openllet) - An OWL DL reasoner build on top of Pellet 2. (Java)
 * [OWL-RL](https://github.com/RDFLib/OWL-RL) - A simple implementation of the OWL2 RL Profile, as well as a basic RDFS inference, on top of RDFLib. (Python)
 * [Racer](https://www.ifis.uni-luebeck.de/~moeller/racer/) - A knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D). (Common Lisp+Java)
+* [Whelk](https://github.com/balhoff/whelk) - a Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures
 
 Archived or inactive:
 
@@ -300,6 +303,7 @@ See also:
 * [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL)
 * [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx)
 * [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
+* [LinkML](https://linkml.io/linkml) - a polymorphic semantic modeling language
 
 Archived or inactive:
 
@@ -314,7 +318,9 @@ See also: [Ontology Tools](#ontology-tools) section.
 * [Apache Jena Ontology API](https://jena.apache.org/documentation/ontology/) -
 * [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies.
 * [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python.
-
+* [FunOWL](https://github.com/hsolbrig/funowl/) - A Python library for working with OWL (functional syntax).
+* [Horned OWL](https://github.com/phillord/horned-owl) - an OWL Rust library
+* 
 Archived or inactive:
 
 * [OPPL](http://oppl2.sourceforge.net/) - An abstract formalism that allows for manipulating ontologies written in OWL.
