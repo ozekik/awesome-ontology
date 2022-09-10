@@ -25,12 +25,12 @@ A curated list of ontology things. Your contribution is welcome!
 
 ## Ontology Editors
 
+* [Eddy](https://github.com/obdasystems/eddy) - A graphical editor for the specification and visualization of ontologies in [Graphol](https://github.com/obdasystems/eddy#about-graphol) format.
 * [Fluent Editor](https://www.cognitum.eu/Semantics/FluentEditor/) - An award winning comprehensive tool for editing and manipulating complex ontologies that uses Controlled Natural Language.
 * [OntoME](https://ontome.net/) - Designed for any object-oriented structured data model to build, manage and align your ontology, or to simply browse through the existing ontologies. ([GitHub](https://github.com/Semantic-Data-for-Humanities/OntoME) for issues)
 * [OntoStudio](https://www.semafora-systems.com/ontobroker-and-ontostudio-x) (formerly OntoEdit) - A most widespread commercial modeling environment for creating and maintaining ontologies.
 * [OWLGrEd](http://owlgred.lumii.lv/) - A UML Style Graphical Editor for OWL.
 * [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.
-* [TopBraid Composer](https://www.topquadrant.com/tools/modeling-topbraid-composer-standard-edition/) Series - A powerful Integrated Development Environment (IDE) for implementing Knowledge Graph/Linked Data services by TopQuadrant, Inc.
 * [Vitro](https://github.com/vivo-project/Vitro) - A general-purpose web-based ontology and instance editor with customizable public browsing.
 * [VocBench](http://vocbench.uniroma2.it/) and [Semantic Turkey](http://semanticturkey.uniroma2.it/) - VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets. Its backend, Semantic Turkey is a RDF service platform for Knowledge Management and Acquisition.
 
@@ -40,6 +40,7 @@ Archived or inactive:
 * [NeOn Toolkit](http://neon-toolkit.org/wiki/Main_Page.html) (last updated 2011) - A state-of-the-art, open source multi-platform ontology engineering environment, which provides comprehensive support for the ontology engineering life-cycle.
 * [Knoodl](https://web.archive.org/web/20190703092924/http://knoodl.com/) (last updated ~2017) - An ontology-driven "Distributed Information Management System" (DIMS) by Revelytix, Inc.
 * [SWOOP](https://github.com/ronwalf/swoop) (last updated 2007) - An OWL Ontology browser/editor that takes the standard Web browser as the basic UI paradigm.
+* [TopBraid Composer](https://archive.topquadrant.com/products/topbraid-composer/) Series (archived ~2021) - A powerful Integrated Development Environment (IDE) for implementing Knowledge Graph/Linked Data services by TopQuadrant, Inc.
 * [WebODE](https://github.com/oeg-upm/webODE) (discontinued in 2006) - An extensible ontology-engineering suite based on an application server.
 
 See also:
@@ -50,6 +51,7 @@ See also:
 ## Ontology Tools
 
 * [LODE](https://essepuntato.it/lode/) - Java ontology documentation generator to convert OWL ontologies into HTML human-readable pages.
+* [OAK](https://incatools.github.io/ontology-access-kit/) - The Ontology Access Kit, a python library and command line tool for ontologies.
 * [obonet](https://github.com/dhimmel/obonet) - Python library to convert OBO-formatted ontologies to networkx graphs.
 * [OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub.
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
@@ -58,7 +60,6 @@ See also:
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
-* [OAK](https://incatools.github.io/ontology-access-kit/) - The Ontology Access Kit, a python library and command line tool for ontologies
 
 Generic RDF tools:
 
@@ -178,7 +179,7 @@ See also:
 #### Biology
 
 * [Gene Ontology (GO)](http://geneontology.org/) -  The world’s largest source of information on the functions of genes.
-* [Uberon](http://obofoundry.org/ontology/uberon) - all body parts across all animals
+* [Uberon](http://obofoundry.org/ontology/uberon) - All body parts across all animals.
 
 #### Commerce
 
@@ -233,8 +234,8 @@ See:
 * [IMI (Infrastructure for Multilayer Interoperability) Core Vocabulary](https://imi.go.jp/goi/imi-about-en) - A Japanese controlled vocabulary consists of roughly 60 class concepts, 250 property concepts and words associated to them.
 * [Open Graph protocol](http://ogp.me/) -
 * [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
-* [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
 * [Schema.org Schemas](https://schema.org/docs/full.html) -
+* [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
 
 ## Alignment & Matching
 
@@ -272,7 +273,7 @@ See also:
 * [Openllet](https://github.com/Galigator/openllet) - An OWL DL reasoner build on top of Pellet 2. (Java)
 * [OWL-RL](https://github.com/RDFLib/OWL-RL) - A simple implementation of the OWL2 RL Profile, as well as a basic RDFS inference, on top of RDFLib. (Python)
 * [Racer](https://www.ifis.uni-luebeck.de/~moeller/racer/) - A knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D). (Common Lisp+Java)
-* [Whelk](https://github.com/balhoff/whelk) - a Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures
+* [Whelk](https://github.com/balhoff/whelk) - A Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures.
 
 Archived or inactive:
 
@@ -300,10 +301,10 @@ See also:
 
 ## Rule and Schema Definition
 
+* [LinkML](https://linkml.io/linkml) - A polymorphic semantic modeling language.
 * [SHACL (Shapes Constraint Language)](https://en.wikipedia.org/wiki/SHACL)
 * [ShEx (Shape Expressions)](https://en.wikipedia.org/wiki/ShEx)
 * [SWRL (Semantic Web Rule Language)](https://www.w3.org/Submission/SWRL/) - A rule markup language which extends the logical expressivity of the OWL language.
-* [LinkML](https://linkml.io/linkml) - a polymorphic semantic modeling language
 
 Archived or inactive:
 
@@ -316,11 +317,12 @@ See also: [Ontology Tools](#ontology-tools) section.
 ### OWL-aware libraries
 
 * [Apache Jena Ontology API](https://jena.apache.org/documentation/ontology/) -
+* [FunOWL](https://github.com/hsolbrig/funowl/) - A Python library for working with OWL (functional syntax).
+* [Horned OWL](https://github.com/phillord/horned-owl) - An OWL Rust library
+* [ontor](https://github.com/felixocker/ontor) - Ontology editing library built on Owlready2. (Python)
 * [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies.
 * [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python.
-* [FunOWL](https://github.com/hsolbrig/funowl/) - A Python library for working with OWL (functional syntax).
-* [Horned OWL](https://github.com/phillord/horned-owl) - an OWL Rust library
-* 
+
 Archived or inactive:
 
 * [OPPL](http://oppl2.sourceforge.net/) - An abstract formalism that allows for manipulating ontologies written in OWL.
