@@ -272,6 +272,7 @@ See also:
 * [jcel](https://github.com/julianmendez/jcel) - A reasoner for the description logic EL+. (Java)
 * [Openllet](https://github.com/Galigator/openllet) - An OWL DL reasoner build on top of Pellet 2. (Java)
 * [OWL-RL](https://github.com/RDFLib/OWL-RL) - A simple implementation of the OWL2 RL Profile, as well as a basic RDFS inference, on top of RDFLib. (Python)
+* [pyfactxx](https://github.com/tilde-lab/pyfactxx) - Python bindings for upgraded FaCT reasoner. (Python/C++)
 * [Racer](https://www.ifis.uni-luebeck.de/~moeller/racer/) - A knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D). (Common Lisp+Java)
 * [Whelk](https://github.com/balhoff/whelk) - A Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures.
 
