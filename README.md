@@ -5,7 +5,7 @@ A curated list of ontology things. Your contribution is welcome!
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
-* [Ontology Tools](#ontology-tools)
+* [Ontology Utilities](#ontology-utilities)
 * [Datastore](#datastore)
 * [Languages](#languages)
 * [Ontologies and Vocabularies](#ontologies-and-vocabularies)
@@ -48,7 +48,7 @@ See also:
 * [List of ontology editors](https://en.wikipedia.org/wiki/Ontology_(information_science)#Editors) in Wikipedia
 * [A List of Ontology Engineering Tools (Ontology Editors)](https://web.archive.org/web/20170827085837/http://www.hozo.jp/OntoTools/) by the Hozo group
 
-## Ontology Tools
+## Ontology Utilities
 
 * [LODE](https://essepuntato.it/lode/) - Java ontology documentation generator to convert OWL ontologies into HTML human-readable pages.
 * [OAK](https://incatools.github.io/ontology-access-kit/) - The Ontology Access Kit, a python library and command line tool for ontologies.
