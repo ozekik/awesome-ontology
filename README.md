@@ -60,6 +60,7 @@ See also:
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
+* [owl-cli](https://github.com/atextor/owl-cli) - Command line tool for ontology engineering (diagram generation, read/write documents in various formats and OWL DL reasoning).
 
 Generic RDF tools:
 
