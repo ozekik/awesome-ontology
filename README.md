@@ -57,6 +57,7 @@ See also:
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
 * [OWLTools](https://github.com/owlcollab/owltools) - Java API and command-line utilities on top of the OWL API.
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
+* [pyontutils](https://github.com/tgbugs/pyontutils) - Python utilities for working with ontologies.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
@@ -314,7 +315,7 @@ Archived or inactive:
 
 ## Programming
 
-See also: [Ontology Tools](#ontology-tools) section.
+See also: [Ontology Utilities](#ontology-utilities) section.
 
 ### OWL-aware libraries
 
@@ -324,6 +325,7 @@ See also: [Ontology Tools](#ontology-tools) section.
 * [ontor](https://github.com/felixocker/ontor) - Ontology editing library built on Owlready2. (Python)
 * [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies.
 * [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python.
+* [Tawny-OWL](https://github.com/phillord/tawny-owl) - A domain-specific language and library for OWL ontologies in Clojure.
 
 Archived or inactive:
 
