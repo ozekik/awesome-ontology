@@ -31,9 +31,9 @@ A curated list of ontology things. Your contribution is welcome!
 * [OntoStudio](https://www.semafora-systems.com/ontobroker-and-ontostudio-x) (formerly OntoEdit) - A most widespread commercial modeling environment for creating and maintaining ontologies.
 * [OWLGrEd](http://owlgred.lumii.lv/) - A UML Style Graphical Editor for OWL.
 * [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.
+* [Termboard](https://termboard.com/) - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.
 * [Vitro](https://github.com/vivo-project/Vitro) - A general-purpose web-based ontology and instance editor with customizable public browsing.
 * [VocBench](http://vocbench.uniroma2.it/) and [Semantic Turkey](http://semanticturkey.uniroma2.it/) - VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets. Its backend, Semantic Turkey is a RDF service platform for Knowledge Management and Acquisition.
-* [Termboard](https://termboard.com/) - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.
 
 Archived or inactive:
 
