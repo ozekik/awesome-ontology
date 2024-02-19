@@ -121,6 +121,7 @@ See also:
 * [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
 * [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
 * [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
+* [DBpedia Archivo](https://archivo.dbpedia.org/list) - Ontology archive automatically indexing OWL ontologies on the web.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
 
 Archived or inactive:
