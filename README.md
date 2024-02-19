@@ -115,14 +115,18 @@ See also:
 See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) in W3C Wiki - A short meta-list of lists of ontologies.
-* [Ontology List](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding.
-* [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies.
+* [BioPortal](https://bioportal.bioontology.org/) - A comprehensive repository of biomedical ontologies.
 * [KBS/Ontology Projects Worldwide](http://www.cs.utexas.edu/users/mfkb/related.html) - A List of 300+ ontologies and related resources, maintained by [Peter Clark](http://www.cs.utexas.edu/users/pclark/).
-* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/) -
+* [The Linked Open Data Cloud](https://lod-cloud.net/)
+* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
 * [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
-* [The Linked Open Data Cloud](https://lod-cloud.net/) -
 * [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
+
+Archived or inactive:
+
+* [Ontology List](https://web.archive.org/web/20210413125526/https://info.sice.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding.
+* [Protege Ontology Library](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library) in Protege Wiki - Listing 100+ ontologies.
 
 ### Upper-level Ontologies
 
@@ -142,8 +146,8 @@ Archived or inactive:
 ### Mid-level Ontologies
 
 * [KYOTO 3 Middle](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~350 classes.
-* [MILO (Mid-Level Ontology)](https://github.com/ontologyportal/sumo/blob/master/Mid-level-ontology.kif) in [SUMO](http://www.adampease.org/OP/) -
-* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Reference Concepts (Reference Concepts ontology) -
+* [MILO (Mid-Level Ontology)](https://github.com/ontologyportal/sumo/blob/master/Mid-level-ontology.kif) in [SUMO](http://www.adampease.org/OP/)
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Reference Concepts (Reference Concepts ontology)
 
 ### Cross-domain Ontologies
 
@@ -158,7 +162,7 @@ Archived or inactive:
 * [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines. It contains more than 55,000,000 data items.
 * [WordNet](https://wordnet.princeton.edu/) - A large lexical database of English. It consists of ~117,000 synsets (groups of synonyms).
 * [YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) - A huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames. It has knowledge of more than 10 million (10,000,000) entities.
-* [Xlore](https://xlore.org/) - A large-scale multilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French wikipedia, and Baidu Baike.
+* [Xlore](https://xlore.cn/index) - A large-scale multilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French wikipedia, and Baidu Baike.
 
 Without explicit classes:
 
