@@ -181,6 +181,10 @@ See also:
 
 ### Domain Ontologies
 
+#### Architecture
+
+* [Digital Buildings Ontology (DBO)](https://github.com/google/digitalbuildings) - Ontology for buildings and building-installed equipment by Google.
+
 #### Biology
 
 * [Gene Ontology (GO)](http://geneontology.org/) -  The world’s largest source of information on the functions of genes.
