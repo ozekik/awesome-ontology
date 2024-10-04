@@ -331,13 +331,13 @@ See also: [Ontology Utilities](#ontology-utilities) section.
 
 ### OWL-aware libraries
 
-* [Apache Jena Ontology API](https://jena.apache.org/documentation/ontology/) -
-* [FunOWL](https://github.com/hsolbrig/funowl/) - A Python library for working with OWL (functional syntax).
-* [Horned OWL](https://github.com/phillord/horned-owl) - An OWL Rust library
+* [Apache Jena Ontology API](https://jena.apache.org/documentation/ontology/) (Java)
+* [FunOWL](https://github.com/hsolbrig/funowl/) - A Python library for working with OWL (functional syntax). (Python)
+* [Horned OWL](https://github.com/phillord/horned-owl) - An OWL Rust library. (Rust)
 * [ontor](https://github.com/felixocker/ontor) - Ontology editing library built on Owlready2. (Python)
-* [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies.
-* [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python.
-* [Tawny-OWL](https://github.com/phillord/tawny-owl) - A domain-specific language and library for OWL ontologies in Clojure.
+* [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies. (Java)
+* [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python. (Python)
+* [Tawny-OWL](https://github.com/phillord/tawny-owl) - A domain-specific language and library for OWL ontologies in Clojure. (Clojure)
 
 Archived or inactive:
 
