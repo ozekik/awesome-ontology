@@ -336,6 +336,7 @@ See also: [Ontology Utilities](#ontology-utilities) section.
 * [Horned OWL](https://github.com/phillord/horned-owl) - An OWL Rust library. (Rust)
 * [ontor](https://github.com/felixocker/ontor) - Ontology editing library built on Owlready2. (Python)
 * [OWL API](http://owlcs.github.io/owlapi/) - A Java API for creating, manipulating and serializing OWL Ontologies. (Java)
+* [Owlish](https://github.com/field33/owlish) - A Rust library for working with OWL 2 ontologies with Wasm support and turtle parsing. (Rust)
 * [Owlready2](https://owlready2.readthedocs.io/) - A module for ontology-oriented programming in Python. (Python)
 * [Tawny-OWL](https://github.com/phillord/tawny-owl) - A domain-specific language and library for OWL ontologies in Clojure. (Clojure)
 
