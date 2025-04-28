@@ -182,6 +182,7 @@ See also:
 
 #### Small to Medium
 
+* [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies) - An IEEE standard suite of eleven ontologies that constitute a mid-level ontology extending from the Basic Formal Ontology (BFO).
 * [KYOTO 3 Domain](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~1900 classes.
 
 ### Domain Ontologies
