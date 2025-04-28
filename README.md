@@ -132,7 +132,7 @@ Archived or inactive:
 ### Upper-level Ontologies
 
 * [BFO (Basic Formal Ontology)](http://basic-formal-ontology.org/) - A small, upper level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains.
-* [DBpedia Ontology](https://www.dbpedia.org/resources/ontology/) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
+* [DBpedia Ontology (DBO)](https://www.dbpedia.org/resources/ontology/) - A shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia.
 * [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/dolce/overview.html) - A foundational ontology originally developed in WonderWeb project. ([old page](https://web.archive.org/web/20180716182415/http://www.loa.istc.cnr.it/old/DOLCE.html))
 * [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [gist](https://semanticarts.com/gist/) - Semantic Arts' minimalist upper ontology for the enterprise.
@@ -142,14 +142,17 @@ Archived or inactive:
 
 Archived or inactive:
 
-* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Vocabulary (UMBEL ontology) (merged to KBpedia in 2019) - An ontology consists of ~70 classes.
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](https://github.com/structureddynamics/UMBEL) Vocabulary (UMBEL ontology) (merged to KBpedia in 2019) - An ontology consists of ~70 classes.
 
 ### Mid-level Ontologies
 
 * [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies) - An IEEE standard suite of eleven ontologies that constitute a mid-level ontology extending from the Basic Formal Ontology (BFO).
 * [KYOTO 3 Middle](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~350 classes.
 * [MILO (Mid-Level Ontology)](https://github.com/ontologyportal/sumo/blob/master/Mid-level-ontology.kif) in [SUMO](http://www.adampease.org/OP/)
-* [UMBEL (Upper Mapping and Binding Exchange Layer)](http://umbel.org/) Reference Concepts (Reference Concepts ontology)
+
+Archived or inactive:
+
+* [UMBEL (Upper Mapping and Binding Exchange Layer)](https://github.com/structureddynamics/UMBEL) Vocabulary (UMBEL ontology) (merged to KBpedia in 2019)
 
 ### Cross-domain Ontologies
 
@@ -159,8 +162,6 @@ Archived or inactive:
 * [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - A knowledge base which contains more than 630,000 concepts.
 * [DBpedia](https://wiki.dbpedia.org/) - A crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
 * [KBpedia](http://kbpedia.org/) - A comprehensive knowledge structure for promoting data interoperability and knowledge-based artificial intelligence (KBAI). It combines Wikipedia, Wikidata, schema.org, DBpedia, GeoNames, OpenCyc, and UMBEL.
-* [Mosaic Knowledge Graphs](https://mosaickg.apps.allenai.org/) - ATOMIC + ConceptNet combination by AllenAI.
-* [NELL ontology and knowledge base](http://nell-ld.telecom-st-etienne.fr/) - An ontology developed by the Never-Ending Language Learning (NELL) project.
 * [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines. It contains more than 55,000,000 data items.
 * [WordNet](https://wordnet.princeton.edu/) - A large lexical database of English. It consists of ~117,000 synsets (groups of synonyms).
 * [YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) - A huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames. It has knowledge of more than 10 million (10,000,000) entities.
@@ -174,6 +175,8 @@ Archived or inactive:
 
 * [Freebase](https://developers.google.com/freebase/) (shut down in 2016) -
 * [MindNet](https://www.microsoft.com/en-us/research/project/mindnet/) (~2001?) - ... by Microsoft.
+* [Mosaic Knowledge Graphs](https://web.archive.org/web/20240715235324/https://mosaickg.apps.allenai.org/) - ATOMIC + ConceptNet combination by AllenAI.
+* [NELL ontology and knowledge base](https://web.archive.org/web/20241014060631/http://nell-ld.telecom-st-etienne.fr/) - An ontology developed by the Never-Ending Language Learning (NELL) project.
 * [SENSUS](https://www.isi.edu/natural-language/resources/sensus.html) -
 * [Mikrokosmos]() -
 
