@@ -136,10 +136,10 @@ Archived or inactive:
 * [DOLCE (Descriptive Ontology for Linguistic and Cognitive Engineering)](http://www.loa.istc.cnr.it/dolce/overview.html) - A foundational ontology originally developed in WonderWeb project. ([old page](https://web.archive.org/web/20180716182415/http://www.loa.istc.cnr.it/old/DOLCE.html))
 * [GFO (General Formal Ontology)](http://www.onto-med.de/ontologies/gfo/) - A top-level ontology for conceptual modeling, which is being constantly further developed by Onto-Med.
 * [gist](https://semanticarts.com/gist/) - Semantic Arts' minimalist upper ontology for the enterprise.
+* [gUFO](http://purl.org/nemo/doc/gufo) - A Lightweight Implementation of the Unified Foundational Ontology (UFO). [Paper on UFO](https://doi.org/10.3233/AO-210256). The [OntoUML conceptual modeling language](https://github.com/OntoUML/ontouml-vp-plugin) is designed to comply with UFO by default and includes model intelligence services.
 * [KYOTO 3 Top](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which extends DOLCE-Lite Plus (DLP). It consists of ~50 classes.
 * [SUMO (Suggested Upper Merged Ontology)](https://www.ontologyportal.org/)
 * [YAMATO (Yet Another More Advanced Top-level Ontology)](https://www.hozo.jp/onto_library/upperOnto.htm)
-* [gUFO: A Lightweight Implementation of the Unified Foundational Ontology (UFO)](http://purl.org/nemo/doc/gufo) - The objective of gUFO is to provide a lightweight implementation of the Unified Foundational Ontology (UFO) suitable for Semantic Web OWL 2 DL applications. [Paper on UFO](https://doi.org/10.3233/AO-210256). The [OntoUML conceptual modeling language](https://github.com/OntoUML/ontouml-vp-plugin) is designed to comply with UFO by default and includes model intelligence services.
 
 Archived or inactive:
 
