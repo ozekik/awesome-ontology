@@ -9,10 +9,10 @@ A curated list of ontology things. Your contribution is welcome!
 * [Datastore](#datastore)
 * [Languages](#languages)
 * [Ontologies and Vocabularies](#ontologies-and-vocabularies)
-  * [Upper-level](#upper-level-ontologies)
-  * [Mid-level](#mid-level-ontologies)
-  * [Cross-domain](#cross-domain-ontologies)
-  * [Domain](#domain-ontologies)
+  * [Upper-level Ontologies](#upper-level-ontologies)
+  * [Mid-level Ontologies](#mid-level-ontologies)
+  * [Cross-domain Ontologies](#cross-domain-ontologies)
+  * [Domain Ontologies](#domain-ontologies)
   * [Vocabularies](#vocabularies)
 * [Alignment & Matching](#alignment--matching)
 * [Logics](#logics)
@@ -157,7 +157,7 @@ Archived or inactive:
 
 ### Cross-domain Ontologies
 
-#### Large
+#### Large-scale
 
 * [ConceptNet](http://conceptnet.io/) - An open, multilingual knowledge graph.
 * [Cyc](https://www.cyc.com/) ([OpenCyc](http://www.cyc.com/opencyc/)/[ResearchCyc](http://www.cyc.com/researchcyc/)) - A knowledge base which contains more than 630,000 concepts.
@@ -185,7 +185,7 @@ See also:
 
 * [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/) - A list of open wordnets in a variety of languages, all linked to the Princeton WordNet of English (PWN).
 
-#### Small to Medium
+#### Small to Medium-scale
 
 * [KYOTO 3 Domain](http://kyoto-project.eu/xmlgroup.iit.cnr.it/kyoto/index8d0f.html?option=com_content&view=article&id=390&Itemid=155) - An ontology which consists of ~1900 classes.
 
