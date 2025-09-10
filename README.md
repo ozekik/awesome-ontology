@@ -235,6 +235,10 @@ See:
 
 * [Liquid-Legal-Institute/Legal-Ontologies](https://github.com/Liquid-Legal-Institute/Legal-Ontologies) - A list of selected resources, methods, and tools dedicated to legal data schemes and ontologies.
 
+#### Music
+
+* [The Music Ontology (MO)](http://musicontology.com/) - An ontology designed to describe music-related concepts such as artists, albums, tracks, performances, and arrangements for use on the Semantic Web.
+
 #### News
 
 * [rNews](http://dev.iptc.org/rNews) - An approved standard for using semantic markup to annotate news-specific metadata in HTML documents.
