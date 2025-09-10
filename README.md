@@ -116,6 +116,7 @@ See also:
 
 * [Lists of ontologies](https://www.w3.org/wiki/Lists_of_ontologies) in W3C Wiki - A short meta-list of lists of ontologies.
 * [BioPortal](https://bioportal.bioontology.org/) - A comprehensive repository of biomedical ontologies.
+* [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/ontologies) - A repository of 200+ biomedical ontologies, developed by the European Bioinformatics Institute (EBI).
 * [KBS/Ontology Projects Worldwide](http://www.cs.utexas.edu/users/mfkb/related.html) - A List of 300+ ontologies and related resources, maintained by [Peter Clark](http://www.cs.utexas.edu/users/pclark/).
 * [The Linked Open Data Cloud](https://lod-cloud.net/)
 * [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
