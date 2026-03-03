@@ -124,6 +124,7 @@ See also:
 * [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
 * [DBpedia Archivo](https://archivo.dbpedia.org/list) - Ontology archive automatically indexing OWL ontologies on the web.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
+* [Built Environment Ontology Lookup Service (BE-OLS)](https://cyberbuildlab.github.io/BE-OLS/) - a list and analysis of 140+ built environment-related ontologies
 
 Archived or inactive:
 
