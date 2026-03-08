@@ -193,7 +193,7 @@ See also:
 
 ### Domain Ontologies
 
-#### Built Environment
+#### Architecture & Built Environment
 
 * [Built Environment Ontology Lookup Service (BE-OLS)](https://cyberbuildlab.github.io/BE-OLS/) - a list and analysis of 140+ built environment-related ontologies
 * [Digital Buildings Ontology (DBO)](https://github.com/google/digitalbuildings) - Ontology for buildings and building-installed equipment by Google.
