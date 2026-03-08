@@ -125,6 +125,7 @@ See also:
 * [DBpedia Archivo](https://archivo.dbpedia.org/list) - Ontology archive automatically indexing OWL ontologies on the web.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
 
+
 Archived or inactive:
 
 * [Ontology List](https://web.archive.org/web/20210413125526/https://info.sice.indiana.edu/~dingying/Teaching/S604/OntologyList.html) by Ying Ding.
@@ -192,8 +193,9 @@ See also:
 
 ### Domain Ontologies
 
-#### Architecture
+#### Architecture & Built Environment
 
+* [Built Environment Ontology Lookup Service (BE-OLS)](https://cyberbuildlab.github.io/BE-OLS/) - a list and analysis of 140+ built environment-related ontologies
 * [Digital Buildings Ontology (DBO)](https://github.com/google/digitalbuildings) - Ontology for buildings and building-installed equipment by Google.
 
 #### Biology
