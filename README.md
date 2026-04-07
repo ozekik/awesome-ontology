@@ -2,6 +2,7 @@
 
 A curated list of ontology things. Your contribution is welcome!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for ontology engineering workflow orchestration, automated knowledge representation management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Ontology Editors](#ontology-editors)
