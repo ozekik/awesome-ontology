@@ -268,6 +268,7 @@ See:
 - [AgreementMakerLight (AML)](https://github.com/AgreementMakerLight/AML-Project) - Ontology matching system developed by LASIGE (FCUL, Portugal) in collaboration with the ADVIS Lab (UIC, USA).
 - [LogMap](https://github.com/ernestojimenezruiz/logmap-matcher) - Highly scalable ontology matching system with "built-in" reasoning and inconsistency repair capabilities.
 - [OntoEMMA](https://github.com/allenai/ontoemma) -  Ontology matcher by AllenAI.
+- [OntoAligner](https://github.com/sciknoworg/OntoAligner) – Python library for ontology matching with modular architecture. 
 
 See also:
 
