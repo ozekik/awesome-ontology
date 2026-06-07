@@ -26,6 +26,7 @@ A curated list of ontology things. Your contribution is welcome!
 ## Ontology Editors
 
 * [Eddy](https://github.com/obdasystems/eddy) - A graphical editor for the specification and visualization of ontologies in [Graphol](https://github.com/obdasystems/eddy#about-graphol) format.
+* [ELOT](https://github.com/johanwk/elot) - A tool for literate ontology engineering, enabling ontology authoring, documentation, and analysis from a single Org-mode plaintext document.
 * [Fluent Editor](https://www.cognitum.eu/Semantics/FluentEditor/) - An award winning comprehensive tool for editing and manipulating complex ontologies that uses Controlled Natural Language.
 * [OntoME](https://ontome.net/) - Designed for any object-oriented structured data model to build, manage and align your ontology, or to simply browse through the existing ontologies. ([GitHub](https://github.com/Semantic-Data-for-Humanities/OntoME) for issues)
 * [OntoStudio](https://semafora-systems.com/technology/ontostudio-x/) (formerly OntoEdit) - A most widespread commercial modeling environment for creating and maintaining ontologies.
@@ -267,7 +268,7 @@ See:
 
 - [AgreementMakerLight (AML)](https://github.com/AgreementMakerLight/AML-Project) - Ontology matching system developed by LASIGE (FCUL, Portugal) in collaboration with the ADVIS Lab (UIC, USA).
 - [LogMap](https://github.com/ernestojimenezruiz/logmap-matcher) - Highly scalable ontology matching system with "built-in" reasoning and inconsistency repair capabilities.
-- [OntoAligner](https://github.com/sciknoworg/OntoAligner) – Python library for ontology matching with modular architecture. 
+- [OntoAligner](https://github.com/sciknoworg/OntoAligner) – Python library for ontology matching with modular architecture.
 - [OntoEMMA](https://github.com/allenai/ontoemma) -  Ontology matcher by AllenAI.
 
 See also:
