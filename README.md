@@ -379,8 +379,9 @@ Archived or inactive:
 
 ## Communities
 
-* [Ontology Alignment Evaluation Initiative](http://oaei.ontologymatching.org/) (OAEI)
-* [Association for Ontology Design & Patterns](http://ontologydesignpatterns.org/wiki/ODPA) (ODPA)
+* [Ontology Alignment Evaluation Initiative (OAEI)](http://oaei.ontologymatching.org/)
+* [Association for Ontology Design & Patterns (ODPA)](http://ontologydesignpatterns.org/wiki/ODPA)
+* [National Center for Ontological Research (NCOR)](https://ncor-network.org/) - A US-based international organization that promotes interdisciplinary research on the theory and application of ontologies.
 
 ## Related
 
