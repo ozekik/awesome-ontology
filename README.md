@@ -7,6 +7,7 @@ A curated list of ontology things. Your contribution is welcome!
 * [Ontology Editors](#ontology-editors)
 * [Ontology Utilities](#ontology-utilities)
 * [Datastore](#datastore)
+* [Machine Learning](#machine-learning)
 * [Languages](#languages)
 * [Ontologies and Vocabularies](#ontologies-and-vocabularies)
   * [Upper-level Ontologies](#upper-level-ontologies)
@@ -74,6 +75,10 @@ Generic RDF tools:
 ## Datastore
 
 * [SciGraph](https://github.com/SciGraph/SciGraph) - Neo4j backed ontology store.
+
+## Machine Learning
+
+* [OntoLearner](https://github.com/sciknoworg/OntoLearner) - A Python library for learning ontologies from data using large language models (LLMs).
 
 ## Languages
 
