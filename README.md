@@ -120,12 +120,12 @@ See also:
 * [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/ontologies) - A repository of 200+ biomedical ontologies, developed by the European Bioinformatics Institute (EBI).
 * [KBS/Ontology Projects Worldwide](http://www.cs.utexas.edu/users/mfkb/related.html) - A List of 300+ ontologies and related resources, maintained by [Peter Clark](http://www.cs.utexas.edu/users/pclark/).
 * [The Linked Open Data Cloud](https://lod-cloud.net/)
-* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
-* [prefix.cc](https://prefix.cc/) - Namespace lookup for RDF developers.
+* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/)
+* [prefix.cc](http://prefix.cc/) - Namespace lookup for RDF developers.
 * [BARTOC (Basel Register of Thesauri, Ontologies & Classifications)](https://bartoc.org) - Database of Knowledge Organization Systems and KOS related Registries, developed by the Basel University Library, Switzerland.
 * [DBpedia Archivo](https://archivo.dbpedia.org/list) - Ontology archive automatically indexing OWL ontologies on the web.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
-
+* [IEEE P3195 Ontology Standards Working Group](https://sagroups.ieee.org/oswg/)
 
 Archived or inactive:
 
@@ -159,6 +159,10 @@ Archived or inactive:
 * [UMBEL (Upper Mapping and Binding Exchange Layer)](https://github.com/structureddynamics/UMBEL) (merged to KBpedia in 2019)
 
 ### Cross-domain Ontologies
+
+#### Formal
+
+* [OWL-Time (Time Ontology)](https://www.w3.org/TR/owl-time/) - An ontology for describing temporal concepts such as instants, intervals, and durations developed by W3C.
 
 #### Large-scale
 
@@ -199,23 +203,29 @@ See also:
 * [Built Environment Ontology Lookup Service (BE-OLS)](https://cyberbuildlab.github.io/BE-OLS/) - a list and analysis of 140+ built environment-related ontologies
 * [Digital Buildings Ontology (DBO)](https://github.com/google/digitalbuildings) - Ontology for buildings and building-installed equipment by Google.
 
-#### Biology
+#### Biology, Medicine & Health
 
 * [Gene Ontology (GO)](http://geneontology.org/) -  The world’s largest source of information on the functions of genes.
 * [Uberon](http://obofoundry.org/ontology/uberon) - All body parts across all animals.
 
-#### Commerce
+See also:
 
+* [OBO Foundry](http://obofoundry.org/) - A collection of 100+ ontologies in the biomedical domain, which are designed to be interoperable and logically well-formed.
+
+#### Commerce & Finance
+
+* [FIBO](https://spec.edmcouncil.org/fibo/) - An ontology for the financial industry, developed by the Enterprise Data Management Council (EDMC).
 * [GoodRelations](http://www.heppnetz.de/projects/goodrelations/) - The Web vocabulary for e-commerce.
 * [Product Types Ontology](http://www.productontology.org/) - High-precision identifiers for product types based on Wikipedia.
-
-#### Community
-
-* [SIOC (Semantically Interlinked Online Communities)](http://sioc-project.org/) - An ontology of terms that can be used to describe online communities on the Web of Data.
 
 #### Culture
 
 * [CIDOC CRM (Conceptual Reference Model)](http://www.cidoc-crm.org/) - An ontology for cultural heritage information, which describes the explicit and implicit concepts and relations relevant to the documentation of cultural heritage.
+
+#### Cybersecurity
+
+* [D3FEND](https://d3fend.mitre.org/resources/ontology/) - An ontology of cybersecurity countermeasures by MITRE.
+* [Unified Cyber Ontology (UCO)](https://unifiedcyberontology.org/) - A community-developed ontology which is intended to serve as a consistent foundation for standardized information representation across the cyber security domain/ecosystem.
 
 #### Energy
 
@@ -230,6 +240,10 @@ See also:
 #### Geography
 
 * [Geographical Entity Ontology](http://www.obofoundry.org/ontology/geo.html) - An ontology of geographical entities implemented in OWL 2 and based on Basic Formal Ontology (BFO).
+
+#### Governance & Provernance
+
+* [PROV-O](https://www.w3.org/TR/prov-o/) - An ontology for the [PROV](https://www.w3.org/TR/prov-overview/) data model, which provides a framework to interchange provenance information generated in different systems and under different contexts.
 
 #### Humanities
 
@@ -251,9 +265,10 @@ See:
 
 * [rNews](http://dev.iptc.org/rNews) - An approved standard for using semantic markup to annotate news-specific metadata in HTML documents.
 
-#### People
+#### People & Community
 
 * [Friend Of A Friend (FOAF)](http://www.foaf-project.org/) - A computer language defining a dictionary of people-related terms that can be used in structured data.
+* [SIOC (Semantically Interlinked Online Communities)](http://sioc-project.org/) - An ontology of terms that can be used to describe online communities on the Web of Data.
 * [vCard Ontology](https://www.w3.org/TR/vcard-rdf/) - An ontology for describing people and organizations. A mapping of the vCard specification (RFC6350) to RDF/OWL.
 
 ### Vocabularies
