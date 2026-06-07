@@ -217,6 +217,10 @@ See also:
 
 * [CIDOC CRM (Conceptual Reference Model)](http://www.cidoc-crm.org/) - An ontology for cultural heritage information, which describes the explicit and implicit concepts and relations relevant to the documentation of cultural heritage.
 
+#### Energy
+
+* [Open Energy Ontology (OEO)](https://github.com/OpenEnergyPlatform/ontology) - A domain ontology of the energy system analysis context developed as part of the [Open Energy Family](https://github.com/OpenEnergyPlatform).
+
 #### Food and Drink
 
 * [Wine Ontology](https://www.w3.org/TR/owl-guide/wine.rdf) - An example used in [W3C OWL Guide](https://www.w3.org/TR/owl-guide/).
