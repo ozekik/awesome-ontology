@@ -79,6 +79,7 @@ Generic RDF tools:
 ## Machine Learning
 
 * [OntoLearner](https://github.com/sciknoworg/OntoLearner) - A Python library for learning ontologies from data using large language models (LLMs).
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Enables ontology reasoning agents to establish verifiable on-chain identities. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Languages
 
