@@ -61,7 +61,9 @@ See also:
 * [OWLTools](https://github.com/owlcollab/owltools) - Java API and command-line utilities on top of the OWL API.
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [pyontutils](https://github.com/tgbugs/pyontutils) - Python utilities for working with ontologies.
+* [rdf-rules-playground](https://github.com/Matdata-eu/rdf-rules-playground) - Web app and CLI to try SHACL Advanced Features rules (sh:TripleRule, sh:SPARQLRule) and see which rule inferred each triple, on which focus node and in which round. (Rust)
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
+* [shacl-report](https://github.com/Matdata-eu/shacl-report) - CLI that validates RDF with SHACL Core and SHACL-SPARQL, or reads any validator's report, and turns it into a readable web view or a standalone HTML report for CI. (Rust)
 * [WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Web application for visualizing ontologies on the Web.
 * [WIDOCO](https://github.com/dgarijo/Widoco) - Java tool for publishing and creating an enriched and customized documentation of ontology automatically, by following a series of steps in a GUI. Based on LODE.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
@@ -69,6 +71,9 @@ See also:
 
 Generic RDF tools:
 
+* [rdf-compare](https://github.com/Matdata-eu/rdf-compare) - Rust CLI that diffs two RDF files into an RDF dataset with one named graph per side, with a web view of the difference.
+* [rdf-splitter](https://github.com/Matdata-eu/rdf-splitter) - Rust CLI that splits large Turtle, N-Triples, N-Quads, TriG, RDF/XML or JSON-LD files into smaller valid chunks.
+* [sparql-formatter](https://github.com/Matdata-eu/sparql-formatter) - TypeScript library and CLI that formats SPARQL 1.2 queries and updates and keeps comments where you put them.
 * [Tarql](https://tarql.github.io/) - Python tool to turn CSV into RDF using SPARQL syntax.
 * [VocPrez](https://github.com/RDFLib/VocPrez/) - Python tool (API and web front-end) for the read-only delivery system of SKOS vocabularies.
 
