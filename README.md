@@ -70,6 +70,10 @@ See also:
 
 Generic RDF tools:
 
+* [rdf-compare](https://github.com/Matdata-eu/rdf-compare) and [rdf-splitter](https://github.com/Matdata-eu/rdf-splitter) - Rust CLI tools for RDF comparison and splitting.
+* [rdf-rules-playground](https://github.com/Matdata-eu/rdf-rules-playground) - Rust web app and CLI to try SHACL Advanced Features rules (sh:TripleRule, sh:SPARQLRule) and see which rule inferred each triple, on which focus node and in which round.
+* [shacl-report](https://github.com/Matdata-eu/shacl-report) - Rust CLI tool that validates RDF with SHACL Core and SHACL-SPARQL, or reads any validator's report, and turns it into a readable web view or a standalone HTML report for CI.
+* [sparql-formatter](https://github.com/Matdata-eu/sparql-formatter) - TypeScript library and CLI that formats SPARQL 1.2 queries and updates and keeps comments where you put them.
 * [Tarql](https://tarql.github.io/) - Python tool to turn CSV into RDF using SPARQL syntax.
 * [VocPrez](https://github.com/RDFLib/VocPrez/) - Python tool (API and web front-end) for the read-only delivery system of SKOS vocabularies.
 
