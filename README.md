@@ -57,6 +57,7 @@ See also:
 * [OAK](https://incatools.github.io/ontology-access-kit/) - The Ontology Access Kit, a python library and command line tool for ontologies.
 * [obonet](https://github.com/dhimmel/obonet) - Python library to convert OBO-formatted ontologies to networkx graphs.
 * [OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub.
+* [askwol](https://lod-4tu.tudelft.nl/askwol/) - Reviews OWL ontologies for quality and publication readiness, with automated checks, visualisation, and guidance for improvement.
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
 * [OWLTools](https://github.com/owlcollab/owltools) - Java API and command-line utilities on top of the OWL API.
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
