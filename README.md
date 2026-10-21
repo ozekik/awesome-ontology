@@ -274,6 +274,7 @@ See:
 #### News
 
 * [rNews](http://dev.iptc.org/rNews) - An approved standard for using semantic markup to annotate news-specific metadata in HTML documents.
+* [Compare the Cloud Vocabulary](https://www.comparethecloud.net/vocab/) - A CC BY 4.0 SKOS thesaurus of 1,002 concepts for classifying business-technology journalism, with dereferenceable IRIs, a Zenodo-archived dump and mappings to IPTC Media Topics.
 
 #### People & Community
 
