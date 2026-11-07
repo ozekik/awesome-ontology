@@ -67,6 +67,7 @@ See also:
 * [WIDOCO](https://github.com/dgarijo/Widoco) - Java tool for publishing and creating an enriched and customized documentation of ontology automatically, by following a series of steps in a GUI. Based on LODE.
 * [yamlpyowl](https://github.com/cknoll/yamlpyowl) - Python based YAML-to-OWL-converter.
 * [owl-cli](https://github.com/atextor/owl-cli) - Command line tool for ontology engineering (diagram generation, read/write documents in various formats and OWL DL reasoning).
+* [Helix Foundry](https://github.com/HelixDB/helix-foundry) - Apache-2.0 tool (Go, TypeScript) that connects databases, apps and documents, has an agent draft an ontology over them, and loads it into a graph you can explore and query, with every value traced to its source.
 
 Generic RDF tools:
 
