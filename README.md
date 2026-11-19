@@ -84,6 +84,7 @@ Generic RDF tools:
 ## Machine Learning
 
 * [OntoLearner](https://github.com/sciknoworg/OntoLearner) - A Python library for learning ontologies from data using large language models (LLMs).
+* [OntoPoc](https://github.com/Longado/ontopoc) - A Python tool (AGPL-3.0) that drafts ontologies from business tables or documents with an LLM, checks them against the data, and has a person confirm each definition; exports OWL/SHACL (Turtle). Also an MCP server. ([Docs](https://longado.github.io/ontopoc/))
 
 ## Languages
 
