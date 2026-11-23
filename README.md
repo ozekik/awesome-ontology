@@ -136,6 +136,7 @@ See also:
 * [DBpedia Archivo](https://archivo.dbpedia.org/list) - Ontology archive automatically indexing OWL ontologies on the web.
 * <http://www.ontologydesignpatterns.org/ont/> in [OntologyDesignPatterns.org](http://ontologydesignpatterns.org/) (ODP)
 * [IEEE P3195 Ontology Standards Working Group](https://sagroups.ieee.org/oswg/)
+* [ohi](https://ohi.dev/) - open-source ontology package manager and registry. Search 840+ ontologies and download them as OWL, RDFS, SHACL, Ossie or LinkML.
 
 Archived or inactive:
 
