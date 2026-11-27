@@ -60,6 +60,7 @@ See also:
 * [askwol](https://lod-4tu.tudelft.nl/askwol/) - Reviews OWL ontologies for quality and publication readiness, with automated checks, visualisation, and guidance for improvement.
 * [Ontospy](http://lambdamusic.github.io/Ontospy/) - Python library and command-line interface for inspecting and visualizing RDF models.
 * [OWLTools](https://github.com/owlcollab/owltools) - Java API and command-line utilities on top of the OWL API.
+* [PlainOntology](https://github.com/cfuracao-academic/plainontology) - Python CLI that extracts an ontology from databases, JSON Schema, OpenAPI and agent tool definitions into an editable plain text file, detects drift, and exports OWL/SKOS Turtle, SHACL and LinkML.
 * [pyLODE](https://github.com/RDFLib/pyLODE) - Python ontology documentation generator inspired by LODE.
 * [pyontutils](https://github.com/tgbugs/pyontutils) - Python utilities for working with ontologies.
 * [ROBOT](http://robot.obolibrary.org/) - Java library and CLI tool for working with ontologies, particularly Open Biomedical Ontologies. It also provides a bridge to Python by Py4J.
